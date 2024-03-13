@@ -1,24 +1,23 @@
-<!-- <h1 align="center">Hi 👋, I'm Nico Kendrick</h1> -->
-<!-- <h3 align="center">Crafting digital solutions, one line of code at a time. 💻✨ #SoftwareEngineerLife</h3> -->
+<div align="center">
 
-<!-- ![banner]() -->
+  <img src="https://imagekit.io/dashboard/media-library/detail/65f1d84a88c257da33a77726" alt="software engineer">
 
-![counter](https://enq0vb9x6jztmpm.m.pipedream.net)
+</div>
 
+<h1 align="center">Hi 👋, I'm Nico Kendrick</h1> 
+<h3 align="center">Crafting digital solutions, one line of code at a time. 💻✨ #SoftwareEngineerLife</h3> 
 
-
-
+<div style="width: 200px; align="center">
+ <img width='100%" src='https://ik.imagekit.io/nkdev/banner_gCu8cLRoX.jpg?updatedAt=1710348362096' alt="Nico  Software Engineer" title="Nico Software Engineer" /
 
 <div style="display: flex; flex-direction: row;">
-    <div style="flex: 50%; padding: 10px; background-color: #f0f0f0;">
-       <h1>🌟 About Me </h1>
-       <p>
-       
+    <div style="flex: 50%; padding: 10px; background-color: #000;">
+       <h1 color:#fff; background-color: #000;">🌟 About Me </h1>
+       <p color:#fff background-color: #000;">
+       Experienced software engineer proficient in cryptography, advanced JavaScript frameworks, cloud technologies, AI and automation., with a passion for problem-solving and a track record of delivering high-quality solutions. Committed to continuous learning and innovation, I thrive in collaborative environments where creativity and efficiency drive success.
        </p>
     </div>
-    <div style="flex: 50%; padding: 10px; background-color: #e0e0e0;">
-        <img src="[http://path/to/img.jpg](https://ik.imagekit.io/nkdev/nkheadshot_ftUg13V-L.jpg?updatedAt=1685920451545)" alt="Nico  Software Engineer" title="Nico Software Engineer" />
-    </div>
+    <img width='100%" src='http://ik.imagekit.io/nkdev/nkheadshot_ftUg13V-L.jpg?updatedAt=1685920451545' alt="Nico  Software Engineer" title="Nico Software Engineer" />
 </div>
 
 
@@ -26,23 +25,23 @@
 
 🚀 Proficiency & Advanced Experience:
 
-🔒 Cryptography and Web3 Crypto
-🖥️ High-Performance JavaScript
-🌐 Serverless Frameworks Applications
-🛠️ Tools & Utilities: C/C++, Python
-🤖 Advanced Automation
-🧠 Machine Learning & AI
-☁️ Cloud Technologies
+- 🔒 Cryptography and Web3 Crypto
+- 🖥️ High-Performance JavaScript
+- 🌐 Serverless Frameworks Applications
+- 🛠️ Tools & Utilities: C/C++, Python
+- 🤖 Advanced Automation
+- 🧠 Machine Learning & AI
+- ☁️ Cloud Technologies
 
 💡 Interest Areas:
 
-🔐 Cryptography
-💻 Web3 Crypto
-⚡ High-Performance JS
-🌐 Serverless Frameworks
-🧠 Machine Learning
-🤖 AI
-☁️ Cloud Computing
+- 🔐 Cryptography
+- 💻 Web3 Crypto
+- ⚡ High-Performance JS
+- 🌐 Serverless Frameworks
+- 🧠 Machine Learning
+- 🤖 AI
+- ☁️ Cloud Computing
 
 
 
