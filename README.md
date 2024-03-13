@@ -1,8 +1,4 @@
-<div align="center">
 
-  <img src="https://imagekit.io/dashboard/media-library/detail/65f1d84a88c257da33a77726" alt="software engineer">
-
-</div>
 
 <h1 align="center">Hi 👋, I'm Nico Kendrick</h1> 
 <h3 align="center">Crafting digital solutions, one line of code at a time. 💻✨ #SoftwareEngineerLife</h3> 
