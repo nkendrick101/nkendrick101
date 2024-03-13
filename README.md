@@ -7,8 +7,6 @@
 <h1 align="center">Hi 👋, I'm Nico Kendrick</h1> 
 <h3 align="center">Crafting digital solutions, one line of code at a time. 💻✨ #SoftwareEngineerLife</h3> 
 
-<div style="width: 200px; align="center">
- <img width='100%" src='https://ik.imagekit.io/nkdev/banner_gCu8cLRoX.jpg?updatedAt=1710348362096' alt="Nico  Software Engineer" title="Nico Software Engineer" /
 
 <div style="display: flex; flex-direction: row;">
     <div style="flex: 50%; padding: 10px; background-color: #000;">
